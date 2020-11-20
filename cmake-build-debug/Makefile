@@ -123,6 +123,33 @@ parcial_2_prog_III/fast:
 	$(MAKE) -f CMakeFiles/parcial_2_prog_III.dir/build.make CMakeFiles/parcial_2_prog_III.dir/build
 .PHONY : parcial_2_prog_III/fast
 
+Dato.o: Dato.cpp.o
+
+.PHONY : Dato.o
+
+# target to build an object file
+Dato.cpp.o:
+	$(MAKE) -f CMakeFiles/parcial_2_prog_III.dir/build.make CMakeFiles/parcial_2_prog_III.dir/Dato.cpp.o
+.PHONY : Dato.cpp.o
+
+Dato.i: Dato.cpp.i
+
+.PHONY : Dato.i
+
+# target to preprocess a source file
+Dato.cpp.i:
+	$(MAKE) -f CMakeFiles/parcial_2_prog_III.dir/build.make CMakeFiles/parcial_2_prog_III.dir/Dato.cpp.i
+.PHONY : Dato.cpp.i
+
+Dato.s: Dato.cpp.s
+
+.PHONY : Dato.s
+
+# target to generate assembly for a file
+Dato.cpp.s:
+	$(MAKE) -f CMakeFiles/parcial_2_prog_III.dir/build.make CMakeFiles/parcial_2_prog_III.dir/Dato.cpp.s
+.PHONY : Dato.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... parcial_2_prog_III"
+	@echo "... Dato.o"
+	@echo "... Dato.i"
+	@echo "... Dato.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

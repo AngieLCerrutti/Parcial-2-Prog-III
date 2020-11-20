@@ -80,6 +80,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/usuario/Desktop/parcial 2 prog III/Dato.cpp">
+			<Option target="parcial_2_prog_III"/>
+		</Unit>
+		<Unit filename="/Users/usuario/Desktop/parcial 2 prog III/Dato.h">
+			<Option target="parcial_2_prog_III"/>
+		</Unit>
+		<Unit filename="/Users/usuario/Desktop/parcial 2 prog III/Node.h">
+			<Option target="parcial_2_prog_III"/>
+		</Unit>
 		<Unit filename="/Users/usuario/Desktop/parcial 2 prog III/main.cpp">
 			<Option target="parcial_2_prog_III"/>
 		</Unit>
