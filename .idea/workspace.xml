@@ -1,37 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="parcial_2_prog_III" targetName="parcial_2_prog_III" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="34" />
-    <option name="width" value="1280" />
-    <option name="height" value="706" />
+  <component name="ChangeListManager">
+    <list default="true" id="f9e5d591-ec1d-4a56-ac4e-5add11498bc5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dato.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Dato.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/parcial_2_prog_III.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/parcial_2_prog_III.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estructuras/AVLTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/Estructuras/AVLTree.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estructuras/BinaryTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/Estructuras/BinaryTree.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estructuras/Dato.h" beforeDir="false" afterPath="$PROJECT_DIR$/Estructuras/Dato.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estructuras/Graph.h" beforeDir="false" afterPath="$PROJECT_DIR$/Estructuras/Graph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estructuras/HashEntry.h" beforeDir="false" afterPath="$PROJECT_DIR$/Estructuras/HashEntry.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estructuras/HashMap.h" beforeDir="false" afterPath="$PROJECT_DIR$/Estructuras/HashMap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estructuras/HashMapTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/Estructuras/HashMapTree.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estructuras/List.h" beforeDir="false" afterPath="$PROJECT_DIR$/Estructuras/List.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estructuras/Node.h" beforeDir="false" afterPath="$PROJECT_DIR$/Estructuras/Node.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estructuras/Queue.h" beforeDir="false" afterPath="$PROJECT_DIR$/Estructuras/Queue.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estructuras/Stack.h" beforeDir="false" afterPath="$PROJECT_DIR$/Estructuras/Stack.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estructuras/TreeNode.h" beforeDir="false" afterPath="$PROJECT_DIR$/Estructuras/TreeNode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kZuTN8l63p7qDsEzqlnWM7aB4L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
-    <configuration name="parcial_2_prog_III" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="parcial_2_prog_III" TARGET_NAME="parcial_2_prog_III" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="parcial_2_prog_III" RUN_TARGET_NAME="parcial_2_prog_III">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="parcial_2_prog_III" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="parcial_2_prog_III" TARGET_NAME="parcial_2_prog_III" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="parcial_2_prog_III" RUN_TARGET_NAME="parcial_2_prog_III">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9e5d591-ec1d-4a56-ac4e-5add11498bc5" name="Default Changelist" comment="" />
+      <created>1605920441279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605920441279</updated>
+      <workItem from="1605920442323" duration="2456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605922624266">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="424" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1605922624266" />
+    <state x="329" y="121" width="1314" height="800" key="DiffContextDialog" timestamp="1605922036896">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="329" y="121" width="1314" height="800" key="DiffContextDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1605922036896" />
+    <state width="1635" height="266" key="GridCell.Tab.0.bottom" timestamp="1605922632240">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1635" height="266" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1605922632240" />
+    <state width="1635" height="266" key="GridCell.Tab.0.center" timestamp="1605922632240">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1635" height="266" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1605922632240" />
+    <state width="1635" height="266" key="GridCell.Tab.0.left" timestamp="1605922632240">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1635" height="266" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1605922632240" />
+    <state width="1635" height="266" key="GridCell.Tab.0.right" timestamp="1605922632240">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1635" height="266" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1605922632240" />
   </component>
 </project>

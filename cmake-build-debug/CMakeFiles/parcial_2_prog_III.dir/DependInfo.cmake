@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/usuario/Desktop/parcial 2 prog III/Dato.cpp" "/Users/usuario/Desktop/parcial 2 prog III/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/Dato.cpp.o"
-  "/Users/usuario/Desktop/parcial 2 prog III/main.cpp" "/Users/usuario/Desktop/parcial 2 prog III/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/main.cpp.o"
+  "C:/Users/llTomasll/Desktop/Parcial-2-Prog-III/Dato.cpp" "C:/Users/llTomasll/Desktop/Parcial-2-Prog-III/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/Dato.cpp.obj"
+  "C:/Users/llTomasll/Desktop/Parcial-2-Prog-III/main.cpp" "C:/Users/llTomasll/Desktop/Parcial-2-Prog-III/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

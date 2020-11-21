@@ -1,6 +1,6 @@
 #ifndef U05_HASH_HASHMAP_HASHMAPTREE_H_
 #define U05_HASH_HASHMAP_HASHMAPTREE_H_
-#include "../../U06_Arbol/Arbol/AVLTree.h"
+#include "AVLTree.h"
 #include "HashEntry.h"
 
 template <class K, class T> class HashMapTree {
