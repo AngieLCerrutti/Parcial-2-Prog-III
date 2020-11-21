@@ -4,7 +4,6 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/llTomasll/Desktop/Parcial-2-Prog-III/Dato.cpp" "C:/Users/llTomasll/Desktop/Parcial-2-Prog-III/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/Dato.cpp.obj"
   "C:/Users/llTomasll/Desktop/Parcial-2-Prog-III/main.cpp" "C:/Users/llTomasll/Desktop/Parcial-2-Prog-III/cmake-build-debug/CMakeFiles/parcial_2_prog_III.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

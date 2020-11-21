@@ -1,27 +1,15 @@
 #include <iostream>
 #include <fstream>
-#include "Estructuras/AVLTree.h"
-#include "Estructuras/BinaryTree.h"
 #include "Estructuras/Dato.h"
-#include "Estructuras/HashEntry.h"
-#include "Estructuras/HashMap.h"
-#include "Estructuras/HashMapTree.h"
-#include "Estructuras/List.h"
-#include "Estructuras/Node.h"
-#include "Estructuras/Queue.h"
-#include "Estructuras/Stack.h"
-#include "Estructuras/TreeNode.h"
-
 using namespace std;
 
 int main(int argc, char *argv[]) // para poder ejercutar los argumentos
 {
-    if (argc < 3 || argc >=
-                    5) //verifica que este la cantidad correcta de argumentos de 1 a 5 el nombre del archivo tambien se cuenta
+  /*  if (argc <= 1 || argc >=5) //verifica que este la cantidad correcta de argumentos de 1 a 5 el nombre del archivo tambien se cuenta
     {
         cout << "Argumentos ingresados incorrectamente" << endl;
         return 0;
-    }
+    }*/
     char *esArchivoCsv = NULL; //buscar una cadena de texto adentro de otra
     esArchivoCsv = strstr(argv[argc - 1], ".csv");
     if (!esArchivoCsv) {

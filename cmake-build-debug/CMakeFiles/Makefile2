@@ -93,12 +93,12 @@ clean: CMakeFiles/parcial_2_prog_III.dir/clean
 CMakeFiles/parcial_2_prog_III.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\parcial_2_prog_III.dir\build.make CMakeFiles/parcial_2_prog_III.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\parcial_2_prog_III.dir\build.make CMakeFiles/parcial_2_prog_III.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\llTomasll\Desktop\Parcial-2-Prog-III\cmake-build-debug\CMakeFiles --progress-num=1,2,3 "Built target parcial_2_prog_III"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\llTomasll\Desktop\Parcial-2-Prog-III\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target parcial_2_prog_III"
 .PHONY : CMakeFiles/parcial_2_prog_III.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/parcial_2_prog_III.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\llTomasll\Desktop\Parcial-2-Prog-III\cmake-build-debug\CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\llTomasll\Desktop\Parcial-2-Prog-III\cmake-build-debug\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/parcial_2_prog_III.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\llTomasll\Desktop\Parcial-2-Prog-III\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/parcial_2_prog_III.dir/rule

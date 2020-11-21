@@ -82,9 +82,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/llTomasll/Desktop/Parcial-2-Prog-III/Dato.cpp">
-			<Option target="parcial_2_prog_III"/>
-		</Unit>
 		<Unit filename="C:/Users/llTomasll/Desktop/Parcial-2-Prog-III/main.cpp">
 			<Option target="parcial_2_prog_III"/>
 		</Unit>
