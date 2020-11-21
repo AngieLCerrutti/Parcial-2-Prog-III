@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\parcial_2_prog_III.dir/objects.a
-C:\TDM-GCC-64\bin\ar.exe cr CMakeFiles\parcial_2_prog_III.dir/objects.a @CMakeFiles\parcial_2_prog_III.dir\objects1.rsp
-C:\TDM-GCC-64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\parcial_2_prog_III.dir/objects.a -Wl,--no-whole-archive  -o parcial_2_prog_III.exe -Wl,--out-implib,libparcial_2_prog_III.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\parcial_2_prog_III.dir\linklibs.rsp
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/parcial_2_prog_III.dir/main.cpp.o  -o parcial_2_prog_III 

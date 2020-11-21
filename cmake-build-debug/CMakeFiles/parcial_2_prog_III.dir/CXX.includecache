@@ -6,15 +6,29 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/llTomasll/Desktop/Parcial-2-Prog-III/Estructuras/Dato.h
+/Users/usuario/Desktop/Parcial-2-Prog-III/Estructuras/Dato.h
 string
 -
 
-C:/Users/llTomasll/Desktop/Parcial-2-Prog-III/main.cpp
+/Users/usuario/Desktop/Parcial-2-Prog-III/Estructuras/HashEntry.h
+
+/Users/usuario/Desktop/Parcial-2-Prog-III/Estructuras/List.h
+Node.h
+/Users/usuario/Desktop/Parcial-2-Prog-III/Estructuras/Node.h
+iostream
+-
+
+/Users/usuario/Desktop/Parcial-2-Prog-III/Estructuras/Node.h
+
+/Users/usuario/Desktop/Parcial-2-Prog-III/main.cpp
 iostream
 -
 fstream
 -
 Estructuras/Dato.h
-C:/Users/llTomasll/Desktop/Parcial-2-Prog-III/Estructuras/Dato.h
+/Users/usuario/Desktop/Parcial-2-Prog-III/Estructuras/Dato.h
+Estructuras/List.h
+/Users/usuario/Desktop/Parcial-2-Prog-III/Estructuras/List.h
+Estructuras/HashEntry.h
+/Users/usuario/Desktop/Parcial-2-Prog-III/Estructuras/HashEntry.h
 
